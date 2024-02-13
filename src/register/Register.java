@@ -11,7 +11,7 @@ public class Register {
 
     int count = 0;
     while (true) {
-      System.out.println("[ 1 - SignUp ]     [ 2 - SignIn ]  [ 3 - List of users ] ");
+      System.out.println("[ 1 - SignUp ]  [ 2 - SignIn ]  [ 3 - List of users ] ");
       int n = sc.nextInt();
 
       switch (n) {
