@@ -2,11 +2,7 @@ package register;
 
 public class User {
 
-   String name;
-   String surname;
-   String phone;
-   String email;
-   String password;
+   String name, surname, phone,email,password;
 
   public User(String name, String surname, String phone, String email, String password) {
     this.name = name;
