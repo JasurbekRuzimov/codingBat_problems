@@ -58,8 +58,10 @@ public class Register {
           }
         }
         default -> {
-          System.out.println("No such command exists! \n"
-              + "Choose the correct command! \n");
+          System.out.println("""
+              No such command exists!\s
+              Choose the correct command!\s
+              """);
         }
       }
     }
