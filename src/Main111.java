@@ -22,9 +22,9 @@ public class Main111 {
     if (UzoqYashagan>1){
       System.out.println("Gipotezalar foydasiga ishlaydi");
     } else if (UzoqYashagan < 1) {
-      System.out.println("Gipotezalar foydasina ishlamidi");
+      System.out.println("Gipotezalar foydasiga ishlamaydi");
     } else {
-      System.out.println("Gipotezalar o'xshashligina ta'sir qilmidi");
+      System.out.println("Gipotezalar o'xshashligina ta'sir qilmaydi");
     }
 
   }
