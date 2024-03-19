@@ -54,7 +54,9 @@ public class Register {
         }
         case 3 -> {
           for (int i = 0; i < count; i++) {
-            System.out.println((i+1)+" - " + users[i].name+ "\n");
+            System.out.println(
+                (i + 1) + " - " + users[i].name + " " + users[i].surname + " " + users[i].phone
+                    + "\n");
           }
         }
         default -> {
