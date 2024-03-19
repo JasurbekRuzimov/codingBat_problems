@@ -1,4 +1,4 @@
-package cpython;
+package uz.pdp.CodingBatProblems.cpython;
 
 import java.util.Scanner;
 
