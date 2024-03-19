@@ -1,3 +1,5 @@
+package tatu;
+
 import java.util.Scanner;
 
 
